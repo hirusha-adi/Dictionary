@@ -10,3 +10,4 @@ to be honest, i have never met a offline dictionary in which if we enter a wrong
 # Next Release
 the next version will have a very less amount of code ( i noticed the mistake while i was uploading, bruh :-3 )
 
+![dictionary](https://user-images.githubusercontent.com/36286877/127775392-c178b583-879e-4912-992b-8f1a26141bad.png)
